@@ -1,0 +1,21 @@
+﻿# Secrets
+.env
+*.env
+
+# Java / Maven build
+target/
+*.jar
+*.class
+.mvn/wrapper/maven-wrapper.jar
+
+# Frontend / Node
+node_modules/
+dist/
+build/
+.next/
+*.log
+
+# IDE files
+.idea/
+*.iml
+.vscode/
